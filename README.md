@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
-
-<!-- in your body -->
-<i class="devicon-java-plain"></i>
+![Alt text](./java.svg)
+<img src="./java.svg">
 
 
 I'm working with:
