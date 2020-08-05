@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Alt text](./java-original.svg =80x)
-<!--<img src="./java-original.svg">-->
+<img src="./java-original.svg">
 
 
 I'm working with:
