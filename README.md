@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt text](./java-original.svg =80x)
-<img src="./java-original.svg">
+<!-- ![Alt java logo](./java-original.svg) -->
+<img src="./java-original.svg" alt="java logo" hight="80px" width="80px">
 
 
 I'm working with:
