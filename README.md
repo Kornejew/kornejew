@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt text](./java.svg)
-<img src="./java.svg">
+![Alt text](./java-original.svg)
+<img src="./java-original.svg">
 
 
 I'm working with:
