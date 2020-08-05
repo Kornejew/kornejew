@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-java-plain"></i>
+
 
 I'm working with:
 <svg viewBox="0 0 128 128">
